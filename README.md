@@ -2,9 +2,9 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/dimitribessa/shiny_cnes?style=for-the-badge)
 
 
-<img src="www/images/animation.gif" alt="Exemplo imagem">
+<img src="inst/app/www/im/animation.gif" alt="Exemplo imagem">
 
-> A shiny app built using [*now ui*](https://github.com/creativetimofficial/now-ui-dashboard) template from *Creative Tim*. The data comes from Work Accident Comunication (CAT) of National Institute of Social Security (INSS). A live example can be accessed [here](http://142.93.67.223/shiny/appsilon_task/). The graphs have been created utilizing _apexcharts_ and _Echarts_ JS libraries.
+> A shiny app built using [*now ui*](https://github.com/creativetimofficial/now-ui-dashboard) template from *Creative Tim*. The data comes from Work Accident Comunication (CAT) of National Institute of Social Security (INSS). A live example can be accessed [here](http://142.93.67.223/shiny/afastamento/). The graphs have been created utilizing _apexcharts_ and _Echarts_ JS libraries.
 
 ### Tech stack
 
